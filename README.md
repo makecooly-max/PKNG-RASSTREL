@@ -14,6 +14,6 @@ PKNG RASSTREL — це 2D гра, створена на C++ з використ�
 
 ![Gameplay](assets/github/screen1.png)
 
-![Combat](assets/github/screen2.png)
+![Combat](assets/github/screen.png)
 
 ![Map](assets/github/screen3.png)
